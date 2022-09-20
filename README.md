@@ -1,4 +1,5 @@
-![valley Night3](https://user-images.githubusercontent.com/104793974/191209421-274bd472-b9bc-4ebb-be0d-7e2211c5b003.png)
+▪       ▪       ▪       ▪       ▪       ▪       ▪       ▪       ▪       ▪![treseract](https://user-images.githubusercontent.com/104793974/191213496-66283eff-911f-4958-850d-c98e60635230.png)▪       ▪       ▪       ▪       ▪       ▪       ▪       ▪       ▪       ▪
+
 
 ◼   ◾    ◾   ◾   ◾   ◾   ◾   ◾   ◾   ◾    ◾   ◾   ◾   ◾   ◾   ◾   ◾   ◾   ◾   ◾   ◾   ◾   ◾   ◾   ◾   ◾    ◾   ◾   ◾   ◾   ◾   ◾   ◾ ◼
 ### Hi, I´m Richard Rico 👋
