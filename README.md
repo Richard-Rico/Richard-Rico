@@ -7,7 +7,7 @@
 ◼   ◾    ◾   ◾   ◾   ◾   ◾   ◾   ◾   ◾    ◾   ◾   ◾   ◾   ◾   ◾   ◾   ◾   ◾   ◾   ◾   ◾   ◾   ◾   ◾   ◾    ◾   ◾   ◾   ◾   ◾   ◾   ◾ ◼
 
 - 🌱 I’m currently studying software development at Careeria 
-- 👌  I’m interesting in Full stack developer & Cybersecurity
+- 👌  I’m interesting in Full stack development & Cybersecurity
 - 📫 You can reach me by info@richard-rico.com
 
 ◼   ◾    ◾   ◾   ◾   ◾   ◾   ◾   ◾   ◾    ◾   ◾   ◾   ◾   ◾   ◾   ◾   ◾   ◾   ◾   ◾   ◾   ◾   ◾   ◾   ◾    ◾   ◾   ◾   ◾   ◾   ◾   ◾ ◼
