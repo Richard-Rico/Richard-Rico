@@ -6,8 +6,8 @@
 ### Hi, I´m Richard Rico 👋
 ◼   ◾    ◾   ◾   ◾   ◾   ◾   ◾   ◾   ◾    ◾   ◾   ◾   ◾   ◾   ◾   ◾   ◾   ◾   ◾   ◾   ◾   ◾   ◾   ◾   ◾    ◾   ◾   ◾   ◾   ◾   ◾   ◾ ◼
 
-- 🌱 I’m currently studying software development at Careeria 
-- 👌  I’m interesting in Full stack development & Cybersecurity
+- 💻 I'm currently Full stack - software developer based in Helsinki, Finland
+- 👌  I’m interesting in Web & Mobile App development, SEO, and Cybersecurity
 - 📫 You can reach me by info@richard-rico.com
 
 ◼   ◾    ◾   ◾   ◾   ◾   ◾   ◾   ◾   ◾    ◾   ◾   ◾   ◾   ◾   ◾   ◾   ◾   ◾   ◾   ◾   ◾   ◾   ◾   ◾   ◾    ◾   ◾   ◾   ◾   ◾   ◾   ◾ ◼
