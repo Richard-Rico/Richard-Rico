@@ -7,7 +7,7 @@
 ◼   ◾    ◾   ◾   ◾   ◾   ◾   ◾   ◾   ◾    ◾   ◾   ◾   ◾   ◾   ◾   ◾   ◾   ◾   ◾   ◾   ◾   ◾   ◾   ◾   ◾    ◾   ◾   ◾   ◾   ◾   ◾   ◾ ◼
 
 - 💻 I'm currently Full stack - software developer based in Helsinki, Finland
-- 👌  I’m interesting in Web & Mobile App development, SEO, and Cybersecurity
+- 👌  I’m interesting in Web & Mobile App development and Cybersecurity
 - 📫 You can reach me by info@richard-rico.com
 
 ◼   ◾    ◾   ◾   ◾   ◾   ◾   ◾   ◾   ◾    ◾   ◾   ◾   ◾   ◾   ◾   ◾   ◾   ◾   ◾   ◾   ◾   ◾   ◾   ◾   ◾    ◾   ◾   ◾   ◾   ◾   ◾   ◾ ◼
