@@ -1,6 +1,7 @@
 <p align="center">
-<img src=https://user-images.githubusercontent.com/104793974/201312205-13cf6efd-1ab3-4d08-a8c0-8fbc5b286229.png>
+<img src=https://github.com/Richard-Rico/Richard-Rico/assets/104793974/8cf9cfb9-c07a-4f4f-b9c2-e47d8e5c29c3.png>
 </p>
+
 
 
 ### Hi, I´m Richard Rico 👋
