@@ -1,5 +1,5 @@
 <p align="center">
-<img src=https://github.com/Richard-Rico/Richard-Rico/assets/104793974/8cf9cfb9-c07a-4f4f-b9c2-e47d8e5c29c3.png style="width:139px;height:114px;>
+<img src=https://github.com/Richard-Rico/Richard-Rico/assets/104793974/8cf9cfb9-c07a-4f4f-b9c2-e47d8e5c29c3.png>
 </p>
 
 ### Hi, I´m Richard Rico 👋
